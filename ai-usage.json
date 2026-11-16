@@ -1,0 +1,20 @@
+{
+  "updated_at": "11/16 21:37",
+  "services": [
+    {
+      "name": "Muse 周额度",
+      "remaining_pct": 93,
+      "used_pct": 7,
+      "plan": "免费档",
+      "reset": "11/23 周一 12:34",
+      "days_left": 6
+    },
+    {
+      "name": "Muse 额外 Token 池",
+      "remaining_pct": 100,
+      "used_pct": 0,
+      "tokens_left": "28B tokens",
+      "note": "周额度用完后自动接管"
+    }
+  ]
+}
