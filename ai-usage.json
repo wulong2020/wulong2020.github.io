@@ -1,10 +1,10 @@
 {
-  "updated_at": "11/16 21:37",
+  "updated_at": "11/16 23:59",
   "services": [
     {
       "name": "Muse 周额度",
-      "remaining_pct": 93,
-      "used_pct": 7,
+      "remaining_pct": 92,
+      "used_pct": 8,
       "plan": "免费档",
       "reset": "11/23 周一 12:34",
       "days_left": 6
