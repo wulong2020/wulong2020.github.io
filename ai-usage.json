@@ -1,1 +1,1 @@
-{"services":[{"days_left":4,"name":"Muse 周额度","plan":"免费档","remaining_pct":41,"reset":"11/23 周一 12:34","used_pct":59},{"name":"Muse 额外 Token 池","note":"周额度用完后自动接管","remaining_pct":100,"tokens_left":"28B tokens","used_pct":0}],"updated_at":"11/19 07:59"}
+{"services":[{"days_left":4,"name":"Muse 周额度","plan":"免费档","remaining_pct":39,"reset":"11/23 周一 12:34","used_pct":61},{"name":"Muse 额外 Token 池","note":"周额度用完后自动接管","remaining_pct":100,"tokens_left":"28B tokens","used_pct":0}],"updated_at":"11/19 09:59"}
